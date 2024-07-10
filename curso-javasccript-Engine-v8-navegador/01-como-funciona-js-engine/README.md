@@ -8,4 +8,4 @@
 
 **El proceso en el que el motor v8 transforma codigo javascript en Machine code se denomina Just in Time Compiler o JIT compiler.**
 
-[](./images/jit-compiler.webp)
+[](./images/jit-compiler.jpg)

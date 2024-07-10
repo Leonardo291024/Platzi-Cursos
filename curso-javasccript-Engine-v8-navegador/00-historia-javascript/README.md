@@ -4,7 +4,7 @@
 
 **JavaScript fue creado por Brendan Eich inspirado por otros lenguajes como java, Sheme y Self. El proposito de javaScript fue dar solucion a la problematica de las paginas estaticas.**
 
-[](./images/historia-javascript.webp)
+[](./images/historia-javascript.jpg)
 
 ## Origen de JavaScript.
 

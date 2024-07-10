@@ -22,4 +22,4 @@
 ### - Profiler y Compiler:
 **El profiler monitorea y mira el codigo para optimizarlo. El compiler optimiza el codigo y genera Machine code.**
 
-[](./images/Engine.webp)
+[](./images/Engine.jpg)
